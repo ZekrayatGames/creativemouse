@@ -1,0 +1,17 @@
+
+body {
+    background-image: url(../imgs/space.png);
+}
+.one{
+    float: left !important;
+    width: 33.33% !important; /* Each div takes up one-third of the available width */
+    height: 90% !important;
+}
+.two{
+    float: right !important;
+    width: 33.33% !important; /* Each div takes up one-third of the available width */
+}
+.three{
+    float: left !important;
+    width: 33.33% !important; /* Each div takes up one-third of the available width */
+}
