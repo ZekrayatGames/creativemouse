@@ -1,0 +1,8 @@
+body {
+    background-image: url(../imgs/space.png);
+}
+a:hover {
+    color: blueviolet;
+    font-size: 35px !important;
+    transition-duration: 0.4s !important;
+}
